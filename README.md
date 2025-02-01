@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PIRATE-E
 - 👀 I’m interested in ... latest computer technologies and software development as well as in ethical hacking
-- 🌱 I’m currently learning ... android development, ethical hacking 
+- 🌱 I’m currently learning ... software development, {android, java, python, c++}   
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... gmail- piratepiyush579@gmail.com
 
